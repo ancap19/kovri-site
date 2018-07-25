@@ -36,13 +36,13 @@ home:
   main_para1: Kovri è una tecnologia libera, decentralizzata e anonima sviluppata da Monero.
   main_para2: Currently based on I2P’s open specifications, Kovri uses both garlic encryption and garlic routing to create a private, protected overlay-network across the internet. This overlay-network provides users with the ability to effectively hide their geographical location and internet IP address.
   main_para3: Fondamentalmente, Kovri nasconde il traffico internet delle applicazioni per renderlo anonimo all'interno del network.
-  main_para4: Kovri è un network leggero e focalizzato sulla sicurezza, ed è pienamente compatibile con il network I2P. La versione alpha di Kovri è attualmente in sviluppo.
+  main_para4: Kovri è un network leggero e centrato sulla sicurezza, ed è pienamente compatibile con il network I2P. La versione alpha di Kovri è attualmente in sviluppo.
   main_para5: Osserva lo sviluppo di Kovri attraverso la sua repo e unisciti alla comunità.
   main_button: Per iniziare
   whatiskovri: Che cos'è Kovri?
-  downloads: Downloads
-  binaries: Kovri Binaries
-  buildsource: Build from Source
+  downloads: Scarica
+  binaries: Codici binari
+  buildsource: Compila dal codice sorgente
   blog: Blog
   
 get-started:
