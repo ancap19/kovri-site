@@ -1,6 +1,6 @@
 global:
   language: Italiano
-  lang-class: italian
+  lang-class: italiano
   no-js: No javascript - No cookies - No web analytics trackers - Open Sourced
   site-source: Site source code
   kovri: Kovri
@@ -18,8 +18,8 @@ langs:
 titles:
   index: Cos' è Kovri?
   get-started: Get StartedS
-  intro: Introduction
-  acknowledgements: Acknowledgements
+  intro: Introduzione
+  acknowledgements: Riconoscimenti
   quality: Qualità
   contributing: Linee guida per contribuire
   building: Istruzioni per la compilazione
@@ -27,8 +27,8 @@ titles:
   style: Guida per lo stile
   user: Guida per l'utente
   legal: Legal
-  docs: Kovri Documentation
-  blog: Kovri Blog Posts
+  docs: Documentazione su Kovri
+  blog: Blog Posts
   dev: Developer Guide
 
 
