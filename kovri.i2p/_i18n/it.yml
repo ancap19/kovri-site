@@ -1,10 +1,10 @@
 global:
   language: Italiano
-  lang-class: italiano
+  lang-class: Italiano
   no-js: No javascript - No cookies - No web analytics trackers - Open Sourced
-  site-source: Site source code
+  site-source: Codice sorgente del sito
   kovri: Kovri
-  comingsoon: Coming soon
+  comingsoon: Imminente
 
 langs:
   en: English
@@ -17,7 +17,7 @@ langs:
 
 titles:
   index: Cos' è Kovri?
-  get-started: Get StartedS
+  get-started: Per iniziare
   intro: Introduzione
   acknowledgements: Riconoscimenti
   quality: Qualità
@@ -26,20 +26,20 @@ titles:
   faq: FAQ
   style: Guida per lo stile
   user: Guida per l'utente
-  legal: Legal
+  legal: Aspetti legali
   docs: Documentazione su Kovri
   blog: Blog Posts
-  dev: Developer Guide
+  dev: Guida per i programmatori
 
 
 home:
-  main_para1: Kovri is a free, decentralized, anonymity technology developed by Monero.
+  main_para1: Kovri è una tecnologia libera, decentralizzata e anonima sviluppata da Monero.
   main_para2: Currently based on I2P’s open specifications, Kovri uses both garlic encryption and garlic routing to create a private, protected overlay-network across the internet. This overlay-network provides users with the ability to effectively hide their geographical location and internet IP address.
-  main_para3: Essentially, Kovri covers an application’s internet traffic to make it anonymous within the network.
-  main_para4: A lightweight and security-focused router, Kovri is fully compatible with the I2P network. An alpha version of Kovri is in the works.
-  main_para5: Watch development via the Kovri repo and join the community.
-  main_button: Get Started
-  whatiskovri: What is Kovri?
+  main_para3: Fondamentalmente, Kovri nasconde il traffico internet delle applicazioni per renderlo anonimo all'interno del network.
+  main_para4: Kovri è un network leggero e focalizzato sulla sicurezza, ed è pienamente compatibile con il network I2P. La versione alpha di Kovri è attualmente in sviluppo.
+  main_para5: Osserva lo sviluppo di Kovri attraverso la sua repo e unisciti alla comunità.
+  main_button: Per iniziare
+  whatiskovri: Che cos'è Kovri?
   downloads: Downloads
   binaries: Kovri Binaries
   buildsource: Build from Source
@@ -47,11 +47,11 @@ home:
   
 get-started:
   intro1: A quickstart guide for getting Kovri up and running.
-  support: 1. Contact & Support
-  support_para1: First off, if you run into trouble on any of these steps, it's useful to know where you can find help. Please go to our
-  support_para2: IRC channel for general Kovri inquiries and our
-  support_para3: channel for questions that are development related. Ask your question and be patient as you wait for an answer.
-  download: 2. Download Kovri
+  support: 1. Contatti e supporto.
+  support_para1: Prima di tutto, se incontri un qualsiasi problema, è utile sapere dove puoi trovare aiuto. Visita il nostro
+  support_para2: canale IRC per questioni generali concernenti Kovri e
+  support_para3: i nostri canali per questioni concernenti lo sviluppo. Sii paziente mentre attendi le risposte alle tue domande.
+  download: 2. Scarica Kovri
   download_para1: Download one of the binaries
   download_para2: or build from source (see the
   download_para3: Building section
